@@ -1,7 +1,16 @@
-# Todo
+Task Management Application 🚀
 
-A new Flutter project.
+Overview
+A robust, full-stack productivity tool designed for high-performance task tracking and real-time synchronization.
 
-## Getting Started
+🛠 Tech Stack
+Frontend: FlutterFlow (Dart)
+Backend: Firebase (Firestore, Auth, Cloud Functions)
+Architecture: Serverless / Microservices
+Tools: Firebase CLI, VS Code, Git
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+✨ Key Features
+Real-time Sync: Instant data persistence across devices using Firestore.
+Serverless Logic: Automated background workflows via Firebase Cloud Functions (Node.js).
+Secure Authentication: Multi-factor authentication and secure data isolation.
+API Integration: Dynamic data fetching via RESTful endpoints.
